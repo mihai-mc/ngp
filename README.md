@@ -2,6 +2,8 @@
 
 Research MSc project at The University of Edinburgh
 
+![Python Version](https://img.shields.io/badge/python-3.12-blue)
+![License](https://img.shields.io/github/license/mihai-mc/ngp)
 ![CI](https://github.com/mihai-mc/ngp/actions/workflows/main.yml/badge.svg)
 
 # Requirements
