@@ -1,5 +1,9 @@
 # Neural Geometric Parametrisation (NGP)
 
+Research MSc project at The University of Edinburgh
+
+![CI](https://github.com/mihai-mc/ngp/actions/workflows/main.yml/badge.svg)
+
 # Requirements
 
 * Python 3.12

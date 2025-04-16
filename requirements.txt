@@ -13,3 +13,6 @@ nbdime
 cerberus
 pyyaml
 tqdm
+pytest
+pytest-cov
+
